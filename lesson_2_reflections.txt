@@ -43,3 +43,10 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+	
+	combinar automaticamente te da la facilidad de combinar
+	dos ramas facilmente, el problema es que no siempre es posible combinarlas automaticamente, es por eso que se rquiere un paso mas para solucionar los conflictos, aun asi
+	la solucion de conflictos es un paso facil, por otro lado hacer
+	las combinaciones manualmente seria un proceso innecesario
+	y lento.
+	
