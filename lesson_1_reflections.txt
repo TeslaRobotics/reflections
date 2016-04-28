@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Fill in your answer here
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    A largo plazo los pequenos cambios pueden producir cambios 
+    importantes, tener acceso a la historia nos permite encontrar
+    muy facilmente esos pequenos errores que iran disminuyendo con 
+    el tiempo. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Los pros son, la flexbilidad que permite hacr commints en el momento
+    qu se el programador considr mas oportuno, tambien se puede asegurar
+    que cada commit sea un paso logico completo, los contras son que la freeuencia d los commints depende d la subjetividad del programador
+    por lo cual es mas propenso a errores.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Por la diferencia en el grado de interrelacion
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log muestra el historial de commits y git diff muestra que cambios se realizaron exactamente
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Por que siempre se puede volver y arreglar el error
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    programar en android
