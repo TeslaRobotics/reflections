@@ -27,8 +27,19 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	Cuando se trabaja en equipo existe la posibilidad de que 
+	se esten trbajando simultaneamente en multiples caracteristicas
+	esto produce igual cantidad de branches en diferentes puntos de
+	la branch pricipal, los graficos permiten reconocer estos puntos
+	facilmente, y asi considerar que caracteristicas han cambiado y qu otras no en nuestra rama actual.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+	merge combina las caracteristicas de ambas ramas tratando en lo
+	posible de evitar bugs, en el diagrama se represnta como una
+	union de ramas porque las etiquetas anteriores dejan de existir para
+	formar una nueva.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
